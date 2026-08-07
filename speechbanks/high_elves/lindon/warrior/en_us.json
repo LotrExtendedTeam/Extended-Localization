@@ -1,5 +1,5 @@
 {
-  "parent": "lotr:high_elves/lindon/common",
+  "parent": "lotrextended:high_elves/lindon/common",
   "speech": [
     {
       "conditions": {

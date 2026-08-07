@@ -1,5 +1,5 @@
 {
-  "parent": "lotr:high_elves/rivendell/common",
+  "parent": "lotrextended:high_elves/rivendell/common",
   "speech": [
     {
       "conditions": {
