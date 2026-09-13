@@ -1,3 +1,5 @@
+# Quotes relating to travel from *The Lord of the Rings*, by J.R.R. Tolkien.
+
 "C'est une affaire dangereuse, Frodo, de passer ta porte. Tu vas sur la route et, si tu ne retiens pas tes pieds, impossible de savoir jusqu'où tu pourrais être emporté."
 "La maison est derrière, le monde est devant, nombreux chemins ainsi je prends..."
 "A travers l'ombre, jusqu'à la fin de la nuit, jusqu'à la dernière étoile qui luit..."
@@ -16,7 +18,7 @@
 "La route se poursuit sans fin, descendant de la porte où elle commença..."
 "Maintenant loin devant la route s'étire, et je dois la suivre, si je le puis..."
 "Maintenant loin devant la route s'étire. Que d'autres la suivent, s'ils le peuvent !"
-"Termine ? Non, le voyage ne se termine pas ici..."
+"Terminé ? Non, le voyage ne se termine pas ici..."
 "Nous sommes des gens simples et tranquilles qui n'avons pas besoin d'aventures. Vilaines choses ! Elles vous mettent en retard pour le dîner !"
 "Qu'en retirerais-je ? Et rentrerais-je vivant ?"
 "Au-delà des montagnes embrumées, non loin des sombres cavernes du passé..."
@@ -25,3 +27,10 @@
 "Le courage se trouve dans des endroits innattendus."
 "C'est le travail qu'on ne commence jamais qui prend le plus longtemps à terminer."
 "Rien ne vaut la recherche lorsqu'on veut trouver quelque chose. Quand on cherche, on trouve généralement quelque chose, mais pas toujours exactement ce qu'on voulait."
+
+# This is a possible comment format.
+// This is another possible comment format. 
+// Lines starting with # or // will be ignored.
+# You can also put either type on the same line as a quote, after the quote, like this: // comment # comment
+
+# Empty lines will also be ignored.
