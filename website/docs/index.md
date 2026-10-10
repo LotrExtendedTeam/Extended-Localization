@@ -14,7 +14,7 @@ Localization is tracked per file type, allowing contributors to easily identify 
 
 ## 🧩 Extended Localization
 
-This section tracks translation coverage for all content introduced by *LOTR Renewed Extended*.
+This section tracks the translation coverage for all content introduced by *LOTR Renewed Extended*.
 
 - 📦 Mod Pages:  
   - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/lotr-renewed-extended)  
